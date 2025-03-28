@@ -17,12 +17,18 @@ A simple and emotionally intelligent chatbot that detects your feelings and resp
 - Google Generative AI (`google-generativeai`)
 - Gemini 1.5 Pro model
 
-## 🚀 How to Run Locally
+
+
+## 🚀 Getting Started
+
+To run the chatbot locally on your machine:
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the chatbot!](https://emotional-ai-chatbot-ufii8znewhxwz7zapeju7q.streamlit.app/)
+Experience it instantly online:  
+👉 [**Click here to try the chatbot!**](https://emotional-ai-chatbot-ufii8znewhxwz7zapeju7q.streamlit.app/)
