@@ -18,22 +18,6 @@ A simple and emotionally intelligent chatbot that detects your feelings and resp
 - Gemini 1.5 Pro model
 
 
-
-## 🚀 Getting Started
-
-To run the chatbot locally on your machine:
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-## 🌐 Live Demo
-
-Experience it instantly online:  
-👉 [**Click here to try the chatbot!**](https://emotional-ai-chatbot-ufii8znewhxwz7zapeju7q.streamlit.app/)
-
-
 ## 🧠 How It Works (Workflow Overview)
 
 1. **User enters a message**  
@@ -50,3 +34,17 @@ Experience it instantly online:
 
 5. **Minimalist UI with Streamlit**  
    The interface was kept clean and focused to allow for easy testing and demo usage.
+
+## 🚀 Getting Started
+
+To run the chatbot locally on your machine:
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 🌐 Live Demo
+
+Experience it instantly online:  
+👉 [**Click here to try the chatbot!**](https://emotional-ai-chatbot-ufii8znewhxwz7zapeju7q.streamlit.app/)
