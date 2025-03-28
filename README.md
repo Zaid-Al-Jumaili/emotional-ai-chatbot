@@ -22,3 +22,7 @@ A simple and emotionally intelligent chatbot that detects your feelings and resp
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🌐 Live Demo
+
+👉 [Click here to try the chatbot!](https://emotional-ai-chatbot-ufii8znewhxwz7zapeju7q.streamlit.app/)
