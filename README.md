@@ -32,3 +32,21 @@ streamlit run app.py
 
 Experience it instantly online:  
 👉 [**Click here to try the chatbot!**](https://emotional-ai-chatbot-ufii8znewhxwz7zapeju7q.streamlit.app/)
+
+
+## 🧠 How It Works (Workflow Overview)
+
+1. **User enters a message**  
+   The chatbot interface takes the user's message using a simple text input.
+
+2. **Emotion is detected**  
+   The system uses a pre-trained emotion model to identify the underlying feeling (e.g., joy, sadness, anger).
+
+3. **Tone-aware response is generated**  
+   Based on the detected emotion, a prompt is sent to Gemini 1.5 Pro to generate a reply that fits the tone.
+
+4. **Response is displayed with typing effect**  
+   The chatbot simulates typing to make the interaction feel more human and natural.
+
+5. **Minimalist UI with Streamlit**  
+   The interface was kept clean and focused to allow for easy testing and demo usage.
